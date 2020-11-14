@@ -113,7 +113,7 @@ while True:
 	s.starttls() 
 	  
 	# Authentication 
-	s.login("facerecognitionforpbl@gmail.com", "face4you") 
+	s.login("facerecognitionforpbl@gmail.com", "facyou") 
 	  
 	# message to be sent 
 	message = "\n\nPresent:-  " +pr
